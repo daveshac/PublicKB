@@ -19,7 +19,7 @@ For Amazon Web Services, we are currently limited to serving billable customers 
 
 ### Prerequisites
 
-* Approval from Amazon Web Services in the form of a Share-Shift agreement.
+* Approval from Amazon Web Services in the form of a Consent To Assign agreement.
 
 * Access to Cloud Application Manager.
 
